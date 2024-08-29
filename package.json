@@ -1,0 +1,31 @@
+{
+  "name": "niqel504darktheme",
+  "displayName": "Niqel504DarkTheme",
+  "description": "My Favorite Theme",
+  "version": "0.0.1",
+  "publisher": "Niqel504",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Niqel504DarkTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Niqel504DarkTheme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuUsuario/niqel504darktheme"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "vscode"
+  ]
+}
